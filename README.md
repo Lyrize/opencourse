@@ -2,7 +2,7 @@
 Mata Kuliah	: Pemrograman Web II  
 Kelas	: IF404  
 Prodi	: S1 - PJJ Informatika
-Dosen	: Ikhwanul Hakim, B.Ict, M.Kom  
+Dosen	: Riad Sahara, S.SI, MT.    
   
 Link Penugasan Vlog Presentasi Kelompok : https://youtu.be/ylR3qTAPiGs  
 Anggota Kelompok :  
